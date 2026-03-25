@@ -1,2 +1,2 @@
 # Applitools-Visual-AI-Testing
-Automated Visual Regression Testing suite using Applitools Eyes SDK and Selenium WebDriver.
+Visual Regression Testing using the Applitools Eyes SDK integrated with Selenium WebDriver. While functional testing (Flipkart/RedBus) checks if a button works, this project checks if the application looks exactly as it should.
